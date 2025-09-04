@@ -6,6 +6,8 @@
 
 ![deng-xiang--WXQm_NTK0U-unsplash](https://github.com/user-attachments/assets/1452461a-649b-4957-ba20-fbb31404a4cc)
 
+<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+
 
 📫 How to reach me: 
 <!--
