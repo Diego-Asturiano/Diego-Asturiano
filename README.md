@@ -1,6 +1,13 @@
 # Hi I'm Diego Asturiano 👋
 
-💻 Software Developer and self-taught 💡 Data Science and 📊 Data Analysis enthusiast, always exploring new ways to turn data into insights.
+💻 Software Developer and self-taught 💡 Data Science 📊 Data Analysis enthusiast, always exploring new ways to turn data into insights.
+
+---
+
+![deng-xiang--WXQm_NTK0U-unsplash](https://github.com/user-attachments/assets/1452461a-649b-4957-ba20-fbb31404a4cc)
+
+
+📫 How to reach me: 
 <!--
 **Diego-Asturiano/Diego-Asturiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
